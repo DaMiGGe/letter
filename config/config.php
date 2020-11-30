@@ -3,8 +3,8 @@
 return [
   'title'      => 'Brief',
   'dateFormat' => '%d. %B %Y',
-  'locale'     => 'en_EN',
-  'name'       => 'John Doe',
+  'locale'     => 'de_DE',
+  'name'       => 'Christoph Müller',
   'street'     => 'Infinite Loop 12',
   'city'       => '34512 Examplia',
   'country'    => 'Germany',
