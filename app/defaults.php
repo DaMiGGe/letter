@@ -1,7 +1,7 @@
 <?php 
 
 return [
-  'title'      => 'Letter',
+  'title'      => 'Brief',
   'dateFormat' => '%d. %B %Y',
   'locale'     => 'en_EN',
   'name'       => 'John Doe',
