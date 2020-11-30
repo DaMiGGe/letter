@@ -14,7 +14,7 @@
   margin: 0;
 }
 html {
-  background: #efefef;
+  background: #f2f2f2;
 }
 [contenteditable]:focus,
 [contenteditable]:hover {
@@ -29,6 +29,7 @@ letter {
   height: 297mm;
   padding: 20mm;
   margin: 0 auto;
+  box-shadow: 0 0 50px rgba(0,0,0,.1);
 }
 letter:before,
 letter:after {
